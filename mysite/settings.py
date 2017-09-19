@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC -3'
+TIME_ZONE = 'America/Argentina/Tucuman'
 
 USE_I18N = True
 
